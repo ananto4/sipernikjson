@@ -1,6 +1,7 @@
 {
   "pta_jayapura": { "url": "https://simpan2.pta-jayapura.com", "blok": "no" },
   "pa_sengkang": { "url": "https://sipernik.pa-sengkang.go.id", "blok": "no" },
+  "pa_jayapura": { "url": "https://sekpri.pa-jayapura.com", "blok": "no" },
+  "pa_tolitoli": { "url": "https://e-dasi.pa-tolitoli.com", "blok": "no" },
   "pa_arso": { "url": "https://simpan.pa-arso.go.id", "blok": "no" }
-
 }
